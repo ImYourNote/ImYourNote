@@ -1,4 +1,6 @@
-## Hi there 👋
+## 2024.01 Bybit individual Competition Rank#2 👋
+
+![image](https://github.com/ImYourNote/ImYourNote/assets/151738467/14ace6f2-792a-4537-9806-86e7fd6bb521)
 
 <!--
 **ImYourNote/ImYourNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
