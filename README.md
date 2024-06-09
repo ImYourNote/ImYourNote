@@ -2,7 +2,7 @@
 ## 01.01일 150usd 시작 -> 01.29일 4200usd 종료
 ![image](https://github.com/ImYourNote/ImYourNote/assets/151738467/14ace6f2-792a-4537-9806-86e7fd6bb521)
 
-- ⚡ Price Action | Elliot Wave | Harmonic CryptoCurrency Trader
+- ⚡ Price Action | Harmonic CryptoCurrency Trader ( Learning about Elliot Wave.. )
   
 - 🔭 I’m currently working on React..
 - 💬 Ask me about Bitcoin !!
