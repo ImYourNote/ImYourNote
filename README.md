@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on React..
 - 💬 Ask me about Bitcoin !!
-
+<h2>2025.01 ~ 2025.03 100,000USD CHALLENGE START</h2>
 
 <!--
 **ImYourNote/ImYourNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
