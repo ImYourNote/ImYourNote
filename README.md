@@ -1,4 +1,4 @@
-##2025.01 ~ 2025.03 100,000USD CHALLENGE START❗❗<br>
+<b>2025.01 ~ 2025.03 100,000USD CHALLENGE START❗❗</b><br>
 ## 2024.01 Bybit individual Competition Rank#2 
 ## 2024.08 Bybit individual Competition Rank#6 👋
 ## 01.01일 150usd 시작 -> 01.29일 4200usd 종료
