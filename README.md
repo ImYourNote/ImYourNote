@@ -9,7 +9,7 @@
 
 - 💬 Ask me about Bitcoin !!
 <h2>❗ 2025.01 ~ 2025.03 100,000USD CHALLENGE START SOON ❗</h2>
-![image](https://github.com/ImYourNote/ImYourNote/assets/72fbb237-9b22-4a33-a90f-475f09597487)
+![100000usd](https://github.com/user-attachments/assets/c891d0d7-80ee-471f-9046-e474c0c43146)
 
 <!--
 **ImYourNote/ImYourNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
