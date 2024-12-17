@@ -6,8 +6,10 @@
 - ⚡ Price Action | Harmonic CryptoCurrency Trader ( Learning about Elliot Wave.. )
 
 - 🔭 I’m currently working on React..
+
 - 💬 Ask me about Bitcoin !!
 <h2>❗ 2025.01 ~ 2025.03 100,000USD CHALLENGE START SOON ❗</h2>
+![100000usd](https://github.com/user-attachments/assets/72fbb237-9b22-4a33-a90f-475f09597487)
 
 <!--
 **ImYourNote/ImYourNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
