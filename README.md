@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on React..
 - 💬 Ask me about Bitcoin !!
 - 
-##❗ 2025.01 ~ 2025.03 100,000USD CHALLENGE START SOON ❗
+## ❗ 2025.01 ~ 2025.03 100,000USD CHALLENGE START SOON ❗
 ![100000usd](https://github.com/user-attachments/assets/c891d0d7-80ee-471f-9046-e474c0c43146)
 
 <!--
