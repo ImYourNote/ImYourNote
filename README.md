@@ -8,8 +8,9 @@
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/>  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFF"/>  <a href="https://www.instagram.com/im_your_note" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 
-## ❗ 2025.01 ~ 2025.03 100,000USD CHALLENGE START SOON ❗
-![100000usd](https://github.com/user-attachments/assets/c891d0d7-80ee-471f-9046-e474c0c43146)
+##  2025.01 ~ 2025.03 100,000USD CHALLENGE Failed.. 
+![fuck off](https://github.com/user-attachments/assets/1fdd2ced-82cf-4b3b-a56a-83e191e11b63)
+
 
 <!--
 **ImYourNote/ImYourNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
